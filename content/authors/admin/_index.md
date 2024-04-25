@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tianfang Chang
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# # Name pronunciation (optional)
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tianfang
+last_name: Chang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📖
 
 # Is this the primary user of the site?
 superuser: true
